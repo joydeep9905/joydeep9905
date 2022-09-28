@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JOYDEEP SUTRADHAR</h1>
 <h3 align="center">A keen interest in web Dev also in contribution</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joydeep9905&label=Profile%20views&color=0e75b6&style=flat" alt="joydeep9905" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joydeep9905&label=Profile%20views&color=0e75b6&style=flat" alt="joydeep9905" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT(MERN STACK)**
 
