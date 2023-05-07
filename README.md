@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joydeep9905&label=Profile%20views&color=0e75b6&style=flat" alt="joydeep9905" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT(MERN STACK)**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
 - 💬 Ask me about **JAVA,HTML,CSS,JAVASCRIPT**
 
