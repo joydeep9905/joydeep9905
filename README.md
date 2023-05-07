@@ -24,9 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joydeep9905&show_icons=true&locale=en" alt="joydeep9905" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joydeep9905&show_icons=true&locale=en&layout=compact" alt="joydeep9905" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydeep9905&" alt="joydeep9905" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joydeep9905)  
 
 
  
